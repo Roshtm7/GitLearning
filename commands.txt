@@ -5,3 +5,7 @@ git init [intialise git in current working folder]
 git status [list all untracked file]
 git add -A [adding all changes to starting area]
 git commit -m "commit message"
+git remote add remote_name "path" [for adding remote] eg:https://github.com/Roshtm7/GitLearning.git
+git push remote_name branch eg:git push origin master
+git branch [to list all branches]
+
