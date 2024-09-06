@@ -2,5 +2,6 @@ git config --list[list user configuration]
 git config --global user.name "username" [set username]
 git config --g;obal user.email "email" [set email]
 git init [intialise git in current working folder]
+git status [list all untracked file]
 git add -A [adding all changes to starting area]
 git commit -m "commit message"
